@@ -41,5 +41,6 @@
 [instagram]: https://www.instagram.com/vishvanavanjana/
 [linkedin]: https://www.linkedin.com/in/vishva-navanjana/
 
-
+<br>
+<br>
 ![Vishva's GitHub stats](https://github-readme-stats.vercel.app/api?username=VishvaNavanjana&count_private=true&show_icons=true&theme=radical)
