@@ -42,5 +42,4 @@
 [linkedin]: https://www.linkedin.com/in/vishva-navanjana/
 
 
-![Vishva's GitHub stats](https://github-readme-stats.vercel.app/api?username=VishvaNavanjana&count_private=true&show_icons=true&theme=radical)](https://github.com/VishvaNavanjana/github-readme-stats)
-
+![Vishva's GitHub stats](https://github-readme-stats.vercel.app/api?username=VishvaNavanjana&count_private=true&show_icons=true&theme=radical)
